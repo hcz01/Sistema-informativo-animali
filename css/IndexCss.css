@@ -1,0 +1,20 @@
+.Quadro{
+    text-align: center;
+    color: black;
+    height: 50px;
+    width: 100px;
+    border-style: solid;
+    margin:5px;
+}
+#right{
+   display: flex;
+   
+}
+#left{
+    display: flex;
+    
+}
+#main{
+   display: flex;
+  
+}
